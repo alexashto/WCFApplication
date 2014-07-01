@@ -1,0 +1,12 @@
+c:\users\цифровой\documents\visual studio 2012\Projects\WCFServer\Companies\obj\Debug\Companies.csprojResolveAssemblyReference.cache
+c:\users\цифровой\documents\visual studio 2012\Projects\WCFServer\Companies\bin\Debug\Companies.dll
+c:\users\цифровой\documents\visual studio 2012\Projects\WCFServer\Companies\bin\Debug\Companies.pdb
+c:\users\цифровой\documents\visual studio 2012\Projects\WCFServer\Companies\obj\Debug\Companies.dll
+c:\users\цифровой\documents\visual studio 2012\Projects\WCFServer\Companies\obj\Debug\Companies.pdb
+C:\Users\Цифровой\Documents\Visual Studio 2012\Projects\WCFApplication\Companies\bin\Debug\Companies.dll
+C:\Users\Цифровой\Documents\Visual Studio 2012\Projects\WCFApplication\Companies\bin\Debug\Companies.pdb
+C:\Users\Цифровой\Documents\Visual Studio 2012\Projects\WCFApplication\Companies\obj\Debug\Companies.csprojResolveAssemblyReference.cache
+C:\Users\Цифровой\Documents\Visual Studio 2012\Projects\WCFApplication\Companies\obj\Debug\Companies.dll
+C:\Users\Цифровой\Documents\Visual Studio 2012\Projects\WCFApplication\Companies\obj\Debug\Companies.pdb
+C:\Users\Цифровой\Documents\Visual Studio 2012\Projects\WCFApplication\Companies\bin\Debug\Database\CompaniesDb.sdf
+C:\Users\Цифровой\Documents\Visual Studio 2012\Projects\WCFApplication\Companies\bin\Debug\Companies.dll.config

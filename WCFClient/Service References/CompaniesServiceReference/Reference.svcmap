@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="1e88a93f-1970-4ed6-96ab-1240b7ea9875" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:8080/companies" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="companies.xsd" MetadataType="Schema" ID="2d171432-6225-4771-b5e9-4e82f072488c" SourceId="1" SourceUrl="http://localhost:8080/companies?xsd=xsd1" />
+    <MetadataFile FileName="CompaniesService.wsdl" MetadataType="Wsdl" ID="a488908d-f7aa-44cb-b3cf-634b3e214611" SourceId="1" SourceUrl="http://localhost:8080/companies?wsdl" />
+    <MetadataFile FileName="companies1.xsd" MetadataType="Schema" ID="02ede9d8-b9dc-4ea5-aad6-a37a3d148e57" SourceId="1" SourceUrl="http://localhost:8080/companies?xsd=xsd2" />
+    <MetadataFile FileName="companies2.xsd" MetadataType="Schema" ID="ee61ce7b-8a56-4ad9-8726-6fbeb90226b2" SourceId="1" SourceUrl="http://localhost:8080/companies?xsd=xsd0" />
+    <MetadataFile FileName="companies.disco" MetadataType="Disco" ID="cc99b0d4-1a34-496d-8f1e-f95e9f616b3e" SourceId="1" SourceUrl="http://localhost:8080/companies?disco" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

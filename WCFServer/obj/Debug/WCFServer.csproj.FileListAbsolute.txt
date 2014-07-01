@@ -1,0 +1,15 @@
+c:\users\цифровой\documents\visual studio 2012\Projects\WCFServer\WCFServer\bin\Debug\WCFServer.exe.config
+c:\users\цифровой\documents\visual studio 2012\Projects\WCFServer\WCFServer\bin\Debug\WCFServer.exe
+c:\users\цифровой\documents\visual studio 2012\Projects\WCFServer\WCFServer\bin\Debug\WCFServer.pdb
+c:\users\цифровой\documents\visual studio 2012\Projects\WCFServer\WCFServer\obj\Debug\WCFServer.csprojResolveAssemblyReference.cache
+c:\users\цифровой\documents\visual studio 2012\Projects\WCFServer\WCFServer\obj\Debug\WCFServer.exe
+c:\users\цифровой\documents\visual studio 2012\Projects\WCFServer\WCFServer\obj\Debug\WCFServer.pdb
+C:\Users\Цифровой\Documents\Visual Studio 2012\Projects\WCFApplication\WCFServer\bin\Debug\WCFServer.exe.config
+C:\Users\Цифровой\Documents\Visual Studio 2012\Projects\WCFApplication\WCFServer\obj\Debug\WCFServer.exe
+C:\Users\Цифровой\Documents\Visual Studio 2012\Projects\WCFApplication\WCFServer\obj\Debug\WCFServer.pdb
+C:\Users\Цифровой\Documents\Visual Studio 2012\Projects\WCFApplication\WCFServer\obj\Debug\WCFServer.csprojResolveAssemblyReference.cache
+C:\Users\Цифровой\Documents\Visual Studio 2012\Projects\WCFApplication\WCFServer\bin\Debug\WCFServer.exe
+C:\Users\Цифровой\Documents\Visual Studio 2012\Projects\WCFApplication\WCFServer\bin\Debug\WCFServer.pdb
+C:\Users\Цифровой\Documents\Visual Studio 2012\Projects\WCFApplication\WCFServer\bin\Debug\Companies.dll
+C:\Users\Цифровой\Documents\Visual Studio 2012\Projects\WCFApplication\WCFServer\bin\Debug\Companies.pdb
+C:\Users\Цифровой\Documents\Visual Studio 2012\Projects\WCFApplication\WCFServer\bin\Debug\Database\CompaniesDb.sdf

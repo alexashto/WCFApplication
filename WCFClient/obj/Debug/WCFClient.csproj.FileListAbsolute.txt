@@ -1,0 +1,15 @@
+C:\Users\Цифровой\Documents\Visual Studio 2012\Projects\WCFApplication\WCFClient\bin\Debug\WCFClient.exe.config
+C:\Users\Цифровой\Documents\Visual Studio 2012\Projects\WCFApplication\WCFClient\bin\Debug\WCFClient.exe
+C:\Users\Цифровой\Documents\Visual Studio 2012\Projects\WCFApplication\WCFClient\bin\Debug\WCFClient.pdb
+C:\Users\Цифровой\Documents\Visual Studio 2012\Projects\WCFApplication\WCFClient\obj\Debug\WCFClient.csprojResolveAssemblyReference.cache
+C:\Users\Цифровой\Documents\Visual Studio 2012\Projects\WCFApplication\WCFClient\obj\Debug\WCFClient.MainForm.resources
+C:\Users\Цифровой\Documents\Visual Studio 2012\Projects\WCFApplication\WCFClient\obj\Debug\WCFClient.Properties.Resources.resources
+C:\Users\Цифровой\Documents\Visual Studio 2012\Projects\WCFApplication\WCFClient\obj\Debug\WCFClient.csproj.GenerateResource.Cache
+C:\Users\Цифровой\Documents\Visual Studio 2012\Projects\WCFApplication\WCFClient\obj\Debug\WCFClient.exe
+C:\Users\Цифровой\Documents\Visual Studio 2012\Projects\WCFApplication\WCFClient\obj\Debug\WCFClient.pdb
+C:\Users\Цифровой\Documents\Visual Studio 2012\Projects\WCFApplication\WCFClient\obj\Debug\WCFClient.EmployeesForm.resources
+C:\Users\Цифровой\Documents\Visual Studio 2012\Projects\WCFApplication\WCFClient\obj\Debug\WCFClient.AddCompanyForm.resources
+C:\Users\Цифровой\Documents\Visual Studio 2012\Projects\WCFApplication\WCFClient\obj\Debug\WCFClient.AddEmployeeForm.resources
+C:\Users\Цифровой\Documents\GitHub\WCFApplication\WCFClient\bin\Debug\WCFClient.exe.config
+C:\Users\Цифровой\Documents\GitHub\WCFApplication\WCFClient\obj\Debug\WCFClient.exe
+C:\Users\Цифровой\Documents\GitHub\WCFApplication\WCFClient\obj\Debug\WCFClient.pdb
